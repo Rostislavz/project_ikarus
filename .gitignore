@@ -1,0 +1,7 @@
+ubuntu-xenial-16.04-cloudimg-console.log
+builddocker1.sh
+
+dir_to_ignore/
+
+.vagrant
+
